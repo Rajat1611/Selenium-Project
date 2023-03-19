@@ -122,7 +122,7 @@ public class SpectrumTicketCreation {
 		Narration.click();
 		Thread.sleep(2000);
 		Narration.sendKeys(Keys.CONTROL+"a");
-		Driver.findElement(By.xpath(""));
+		//Driver.findElement(By.xpath(""));
 		Driver.close();
 		//arration.sendKeys("A");
 		//WebElement submit=Driver.findElement(By.xpath("//button[@class='btn-gray'"));
